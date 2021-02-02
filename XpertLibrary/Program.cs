@@ -2,7 +2,7 @@
 
 namespace XpertLibrary
 {
-    class Program
+    public class AdvisorClass
     {
         public string Advice()
         {
